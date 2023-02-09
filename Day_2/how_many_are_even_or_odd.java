@@ -1,3 +1,4 @@
+package Day_2;
 public class how_many_are_even_or_odd {
     public int count_even_or_odd(int input1, int input2, int input3, int input4, int input5, String input6) {
         int c=0;
