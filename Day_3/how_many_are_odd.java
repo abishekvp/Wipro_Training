@@ -1,4 +1,4 @@
-package Day_2;
+package Day_3;
 public class how_many_are_odd {
     public int count_odd(int input1,int input2,int input3,int input4,int input5) {
         int c=0;

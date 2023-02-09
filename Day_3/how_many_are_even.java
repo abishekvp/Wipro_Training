@@ -1,4 +1,4 @@
-package Day_2;
+package Day_3;
 class how_many_are_even{
     public int count_even(int input1,int input2,int input3,int input4,int input5) {
         int c=0;
