@@ -1,7 +1,7 @@
 package Day_6;
 
 public class most_frequency_digit {
-    public int mostFrequentlyOccurringDigit(int[] input1,int input2)
+    public int mostFrequentlyOccurringDigit(int[] input1,int input2){
 
         int[] arr=new int[10];
         for(int i=0;i<input2;i++){
@@ -20,4 +20,5 @@ public class most_frequency_digit {
             }
         }
         return higest_occur_number;
+    }
 }
