@@ -1,6 +1,4 @@
 package Day_6;
-import java.io.*;
-import java.util.*;
 
 public class simple_encoded_array {
     public class Result{
